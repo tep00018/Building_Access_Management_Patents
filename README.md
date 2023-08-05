@@ -8,7 +8,7 @@ This innovative approach ensures robust identity verification while safeguarding
 personally identifiable information.
 
 ## System Architecture
-- Patent Number: [9,858,781](https://patents.google.com/patent/US9858781B1/en?oq=US9%2c858%2c781), [10,055,926], [10,475,272], [10,475,273], [10,636,240], [10,685,526], [10,692,321]
+- Patent Number: [US9858781](https://patents.google.com/patent/US9858781B1/en?oq=US9%2c858%2c781), [US10055926](https://patents.google.com/patent/US10055926B2/en?oq=10055926), [10,475,272](https://patents.google.com/patent/US10475272B2/en?oq=10%2c475%2c272), [10,475,273](https://patents.google.com/patent/US10475273B2/en?oq=10%2c475%2c273), [10,636,240](https://patents.google.com/patent/US10636240B2/en?oq=10%2c636%2c240), [10,685,526](https://patents.google.com/patent/US10685526B2/en?oq=10%2c685%2c526), [10,692,321](https://patents.google.com/patent/US10692321B2/en?oq=10%2c692%2c321)
 - Description: Brief description of the patent.
 
 ## Intrusion Detection Using Verified Identity
