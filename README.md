@@ -12,19 +12,19 @@ personally identifiable information.
 - Description: Brief description of the patent.
 
 ## Intrusion Detection Using Verified Identity
-- Patent Number: 10,453,319, 10,896,586
+- Patent Number: [US10453319](https://patents.google.com/patent/US10453319B2/en?oq=US10453319), [US10896586](https://patents.google.com/patent/US10896586B2/en?oq=US10896586)
 - Description: Brief description of the patent.
 
 ## Device Enabled Identity Authentication
-- Patent Number: 10,606,224
+- Patent Number: [US10606224](https://patents.google.com/patent/US10606224B2/en?oq=US10606224)
 - Description: Brief description of the patent.
 
 ## Vehicle Access and Operation
-- Patent Number: 10,829,088
+- Patent Number: [US10829088](https://patents.google.com/patent/US10829088B2/en?oq=US10829088)
 - Description: Brief description of the patent.
 
 ## Identity and Asset Sharing
-- Patent Number: 11,055,802
+- Patent Number: [US11055802](https://patents.google.com/patent/US11055802B2/en?oq=US11055802)
 - Description: Brief description of the patent.
 
 ## Service Provisioning
