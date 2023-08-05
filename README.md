@@ -1,4 +1,4 @@
-# Building_Access_Management_Patents
+# Building Physical Access Managemen Patents
 This repository contains a list of my patents in the field of physical access management.
 
 The central premise of this physical access management architecture is to leverage the power of 
