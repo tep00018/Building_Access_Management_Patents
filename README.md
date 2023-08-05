@@ -28,5 +28,5 @@ personally identifiable information.
 - Description: Brief description of the patent.
 
 ## Service Provisioning
-- Patent Number: 11,645,593
+- Patent Number: [US11645593](https://patents.google.com/patent/US11645593B2/en?oq=US11%2c645%2c593)
 - Description: Brief description of the patent.
