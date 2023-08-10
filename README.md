@@ -21,7 +21,7 @@ personally identifiable information.
 
 ## Device Enabled Identity Authentication
 - Patent Number: [US10606224](https://patents.google.com/patent/US10606224B2/en?oq=US10606224)
-- Description: Brief description of the patent.
+- Description: Methods to use a smart device such as a smart phone or wearable to perform transactions utilising the system architecture.
 
 ## Vehicle Access and Operation
 - Patent Number: [US10829088](https://patents.google.com/patent/US10829088B2/en?oq=US10829088)
